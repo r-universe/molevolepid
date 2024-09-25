@@ -1,0 +1,10 @@
+{
+  "id": 55272619,
+  "created_at": "2024-09-25T16:19:19.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["SEEPS", "MolEvolEpid.r-universe.dev"]
+}
